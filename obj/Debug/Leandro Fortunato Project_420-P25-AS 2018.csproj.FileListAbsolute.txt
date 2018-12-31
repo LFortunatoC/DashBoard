@@ -1,0 +1,28 @@
+C:\Users\Fortuna\source\repos\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro Fortunato Project_420-P25-AS 2018.csprojResolveAssemblyReference.cache
+C:\Users\Fortuna\source\repos\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro_Fortunato_Project_420_P25_AS_2018.DashBoard.resources
+C:\Users\Fortuna\source\repos\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro_Fortunato_Project_420_P25_AS_2018.frmCalculator.resources
+C:\Users\Fortuna\source\repos\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro_Fortunato_Project_420_P25_AS_2018.frmLotto.resources
+C:\Users\Fortuna\source\repos\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro_Fortunato_Project_420_P25_AS_2018.frmMoneyExchange.resources
+C:\Users\Fortuna\source\repos\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro_Fortunato_Project_420_P25_AS_2018.Properties.Resources.resources
+C:\Users\Fortuna\source\repos\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro_Fortunato_Project_420_P25_AS_2018.frmTemperatureConvert.resources
+C:\Users\Fortuna\source\repos\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro Fortunato Project_420-P25-AS 2018.csproj.GenerateResource.Cache
+C:\Users\Fortuna\source\repos\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro Fortunato Project_420-P25-AS 2018.csproj.CoreCompileInputs.cache
+C:\Users\Fortuna\source\repos\Leandro Fortunato Project_420-P25-AS 2018\bin\Debug\Leandro Fortunato Project_420-P25-AS 2018.exe.config
+C:\Users\Fortuna\source\repos\Leandro Fortunato Project_420-P25-AS 2018\bin\Debug\Leandro Fortunato Project_420-P25-AS 2018.exe
+C:\Users\Fortuna\source\repos\Leandro Fortunato Project_420-P25-AS 2018\bin\Debug\Leandro Fortunato Project_420-P25-AS 2018.pdb
+C:\Users\Fortuna\source\repos\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro Fortunato Project_420-P25-AS 2018.exe
+C:\Users\Fortuna\source\repos\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro Fortunato Project_420-P25-AS 2018.pdb
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\bin\Debug\Leandro Fortunato Project_420-P25-AS 2018.exe.config
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\bin\Debug\Leandro Fortunato Project_420-P25-AS 2018.exe
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\bin\Debug\Leandro Fortunato Project_420-P25-AS 2018.pdb
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro Fortunato Project_420-P25-AS 2018.csprojAssemblyReference.cache
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro_Fortunato_Project_420_P25_AS_2018.DashBoard.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro_Fortunato_Project_420_P25_AS_2018.frmCalculator.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro_Fortunato_Project_420_P25_AS_2018.frmLotto.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro_Fortunato_Project_420_P25_AS_2018.frmMoneyExchange.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro_Fortunato_Project_420_P25_AS_2018.Properties.Resources.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro_Fortunato_Project_420_P25_AS_2018.frmTemperatureConvert.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro Fortunato Project_420-P25-AS 2018.csproj.GenerateResource.cache
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro Fortunato Project_420-P25-AS 2018.csproj.CoreCompileInputs.cache
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro Fortunato Project_420-P25-AS 2018.exe
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro Fortunato Project_420-P25-AS 2018.pdb

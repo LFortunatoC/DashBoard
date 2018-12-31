@@ -1,0 +1,30 @@
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\bin\Debug\Leandro Fortunato Project_420-P25-AS 2018.exe.config
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\bin\Debug\Leandro Fortunato Project_420-P25-AS 2018.exe
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\bin\Debug\Leandro Fortunato Project_420-P25-AS 2018.pdb
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\DashBoard.DashBoard.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\DashBoard.frmCalculator.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\DashBoard.frmLotto.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\DashBoard.frmMoneyExchange.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro_Fortunato_Project_420_P25_AS_2018.Properties.Resources.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\DashBoard.frmTemperatureConvert.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\DashBoard.csproj.GenerateResource.cache
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro Fortunato Project_420-P25-AS 2018.exe
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\Leandro Fortunato Project_420-P25-AS 2018.pdb
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\DashBoard.csprojAssemblyReference.cache
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\Leandro Fortunato Project_420-P25-AS 2018\obj\Debug\DashBoard.frmLog.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\DashBoard\bin\Debug\Leandro Fortunato Project_420-P25-AS 2018.exe.config
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\DashBoard\bin\Debug\Leandro Fortunato Project_420-P25-AS 2018.exe
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\DashBoard\bin\Debug\Leandro Fortunato Project_420-P25-AS 2018.pdb
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\DashBoard\obj\Debug\DashBoard.csprojAssemblyReference.cache
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\DashBoard\obj\Debug\DashBoard.DashBoard.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\DashBoard\obj\Debug\DashBoard.frmCalculator.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\DashBoard\obj\Debug\DashBoard.frmLotto.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\DashBoard\obj\Debug\DashBoard.frmMoneyExchange.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\DashBoard\obj\Debug\DashBoard.frmLog.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\DashBoard\obj\Debug\Leandro_Fortunato_Project_420_P25_AS_2018.Properties.Resources.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\DashBoard\obj\Debug\DashBoard.frmTemperatureConvert.resources
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\DashBoard\obj\Debug\DashBoard.csproj.GenerateResource.cache
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\DashBoard\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\DashBoard\obj\Debug\Leandro Fortunato Project_420-P25-AS 2018.exe
+D:\Fortuna\Documents\LaSalle\Summer_2018\Object_Programming\DashBoard\obj\Debug\Leandro Fortunato Project_420-P25-AS 2018.pdb
